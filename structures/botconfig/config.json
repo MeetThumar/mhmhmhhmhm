@@ -1,6 +1,6 @@
 {
     "env": {
-        "TOKEN": "",
+        "TOKEN": "1",
         "PREFIX": "+",
         "MongoDB_TOKEN": "mongodb+srv://Destiny0329:Ismail7860@cluster0.ffghe.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "INVITE": "https://discord.com/api/oauth2/authorize?client_id=948230363413639209&permissions=8&scope=bot%20applications.commands",
